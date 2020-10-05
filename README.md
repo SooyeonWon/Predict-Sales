@@ -3,7 +3,7 @@
 
 ## Introduction
 
-> In this project, I analyze a business problem in the mail-order catalog business. I am tasked with predicting how much money the company can expect to earn from sending out a catalog to new customers. This task involves building  a **linear regression model** and applying the results in order to provide a recommendation to management.
+> This project is a part of Predictive Analytics for Business Nanodegree in Udacity. In this project, I analyze a business problem in the mail-order catalog business. I am tasked with predicting how much money the company can expect to earn from sending out a catalog to new customers. This task involves building  a **linear regression model** and applying the results in order to provide a recommendation to management.
 
 > The details of the business situation are as follows: 
 - The costs of printing and distributing is USD 6.50 per catalog.
@@ -23,4 +23,5 @@ The company should send this year’s catalog to these new customers. According 
 - Interpretation of the regression results and application to the business problem.
 
 ## References
+[Udacity- Predictive Analytics for Business Nanodegree](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008)
 [Linear Regression - statsmodel](https://www.statsmodels.org/dev/regression.html)
