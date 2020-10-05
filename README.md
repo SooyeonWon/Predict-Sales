@@ -21,9 +21,8 @@ The dataset includes various customer information such as customer segment, post
 The company should send this year’s catalog to these new customers. According to the predictive analysis, the expected profit is  USD 21,634.39, assuming that the catalog is sent to the 250 new customers. The expected profit contribution is higher than USD 10,000 which is the cut-off suggested by the management. 
 
 ## Key Insights for Presentation
-- Data visualizaitions for understanding customer characteristics
-- Regression modeling to predict sales 
-- Interpretation of the regression results and application to the business problem.
+1. From the analysis **Part 1**, you can investigate the data through visualizaitions for understanding customer characteristics. You can also find out the results of regression model analysis. The Linear Regression is conducted in two different ways. Both results are consistent. 
+2. From the analysis **Part 2**, you can check the interpretations of the regression results and applications of the findings to the business problem. Finally the data-based recommendations are provided.
 
 ## References
 [Udacity- Predictive Analytics for Business Nanodegree](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008)<br>
