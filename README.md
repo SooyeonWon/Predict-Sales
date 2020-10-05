@@ -1,5 +1,8 @@
-# Predict Sales for a Catalog Launch/ Linear Regression Model
+# Predict Sales for a Catalog Launch
 ### by Sooyeon Won 
+
+## Keywords:
+Linear Regression Model, Data Visualisation, Analytical Framework
 
 ## Introduction
 
