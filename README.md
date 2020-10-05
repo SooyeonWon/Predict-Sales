@@ -1,4 +1,4 @@
-# Predict Sales for a Catalog Launch
+# Predict Sales for a Catalog Launch/ Linear Regression Model
 ### by Sooyeon Won 
 
 ## Introduction
