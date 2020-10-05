@@ -23,5 +23,5 @@ The company should send this year’s catalog to these new customers. According 
 - Interpretation of the regression results and application to the business problem.
 
 ## References
-[Udacity- Predictive Analytics for Business Nanodegree](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008)
+[Udacity- Predictive Analytics for Business Nanodegree](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008)<br>
 [Linear Regression - statsmodel](https://www.statsmodels.org/dev/regression.html)
