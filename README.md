@@ -1,14 +1,18 @@
 # Predict Sales for a Catalog Launch
-### by Sooyeon Won 
+Sales Predictions based on Linear Regression
 
-## Keywords
-Linear Regression Model, Data Visualisation, Analytical Framework
+#### by Sooyeon Won 
+
+### Keywords
+- Linear Regression Model
+- Data Visualisation
+- Business Decision Making based on Analytical Framework
 
 ## Introduction
 
-> This project is a part of Predictive Analytics for Business Nanodegree in Udacity. In this project, I analyze a business problem in the mail-order catalog business. I am tasked with predicting how much money the company can expect to earn from sending out a catalog to new customers. This task involves building  a **linear regression model** and applying the results in order to provide a recommendation to management.
+This project is a part of Predictive Analytics for Business Nanodegree in Udacity. In this project, I analyze a business problem in the mail-order catalog business. I am tasked with predicting how much money the company can expect to earn from sending out a catalog to new customers. This task involves building  a **linear regression model** and applying the results in order to provide a recommendation to management.
 
-> The details of the business situation are as follows: 
+The details of the business situation are as follows: 
 - The costs of printing and distributing is USD 6.50 per catalog.
 - The average gross margin (price - cost) on all products sold through the catalog is 50%
 - Management will send out the catalogs to the new customers only if the expected profit contribution exceeds USD10,000. 
